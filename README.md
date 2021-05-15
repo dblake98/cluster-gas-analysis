@@ -21,12 +21,10 @@ While gas tempurature is not part of the dataset it ws solved using the followin
 The high variance in the density-temperature relationship was unexpected to me so I decided to compare a larger sample. To better understand the trend, a large sampleset from over 700 distinct halos was compiled. A challenge arised in choosing which halos to sample. To solve this problem, two analysis were run: one for low-mass clusters on the range: (1E10.5M☉/h - 1E11M☉/h) and another for high-mass clusters on the range: (1.28e+12M☉/h - 5.83e+14M☉/h). Low mass clusters were found to be difficult to work with. Each halo contains up to thousands of particles. Yet in low-mass halos, this was not always the case. To ensure that each low-mass halo contributed an adequate number of particles, an algorithm was applied to search for good halo candidates. 
 
 ### Results
-From the plots it is evident that the low-mass and high-mass halos exhibit very different density-temperature relationships. This indiactes that halo mass or its implicated factors play a large role in the distribution of these clusters. If I has more time I would like to filter the halos according to the standard deviation of their tempuratures. I think this would exclude many anomalies and produce much cleaner plots. 
+From the plots it is evident that the low-mass and high-mass halos exhibit very different density-temperature relationships. This indiactes that halo mass or its implicated factors play a large role in the distribution of these clusters. If I has more time I would like to filter the halos according to the standard deviation of their tempuratures. I think this would exclude many anomalies and better expose the underlying relationships.
 
 ## Credits
 Many thanks to the team: Sam Goldstein, and Bhuvnesh Jain from UPenn for their direction in this project and exposing me to Illustris. Sam was a huge help in downloading and processing the data. I am grateful for the opportunity and experience.
-
-
 Thanks to Professor Kasey Wagoner from the Univerity of Princeton for all his support in the program as well.
 
 
